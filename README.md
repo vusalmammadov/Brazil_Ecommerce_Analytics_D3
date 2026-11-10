@@ -99,3 +99,11 @@ when ready.*
 **Project:** Brazil E-Commerce Analytics (D3)\
 **Primary platform:** Microsoft Power BI\
 **D3.js component:** Sankey diagram
+
+## 📊 Power BI Report
+
+The complete interactive Power BI report is available for download.
+
+**[⬇️ Download Power BI Dashboard (.pbix)](https://github.com/vusalmammadov/Brazil_Ecommerce_Analytics_D3/releases/download/v1.0.0/Brazil_Ecommerce_Analytics_D3.pbix)**
+
+[View Release v1.0.0](https://github.com/vusalmammadov/Brazil_Ecommerce_Analytics_D3/releases/tag/v1.0.0)
